@@ -1,3 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
+
 title = "有給取ってAWS Re:Invent行くけど何か質問ある？"
+author = "Taiga Ishii"
+copyright = "© Copyright 2016 Taiga Ishii"
+
+[Params]
+  description = "Re:Invent2016の様子をレポートするブログ"
+  email = "test.gmail.com"
