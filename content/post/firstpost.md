@@ -1,6 +1,6 @@
 +++
 title = "firstpost"
-draft = true
+draft = false
 date = "2016-11-13T13:05:06+09:00"
 
 最初のテスト記事
