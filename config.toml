@@ -9,3 +9,4 @@ copyright = "© Copyright 2016 Taiga Ishii"
 [Params]
   description = "Re:Invent2016の様子をレポートするブログ"
   email = "test.gmail.com"
+  twitter= "serverless"
