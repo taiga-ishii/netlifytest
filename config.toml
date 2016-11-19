@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://serverless-tiger.netlify.com/"
 languageCode = "en-us"
 theme="light-hugo"
 
