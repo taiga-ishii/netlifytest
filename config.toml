@@ -8,4 +8,6 @@ copyright = "© Copyright 2016 Taiga Ishii"
 
 [Params]
   description = "Re:Invent2016の様子をレポートするブログ"
- 
+  email = "john@example.org"
+  github = "tblyler"
+  twitter = "tonyblyler"
